@@ -1,0 +1,19 @@
+{
+  "name": "npm-hello-ankush",
+  "version": "1.0.0",
+  "description": "Demo npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankushkalra/first-npm.git"
+  },
+  "author": "\"Ankush Kalra <ankushkalra2@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankushkalra/first-npm/issues"
+  },
+  "homepage": "https://github.com/ankushkalra/first-npm#readme"
+}
