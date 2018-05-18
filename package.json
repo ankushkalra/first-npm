@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ankushkalra/first-npm/issues"
   },
-  "homepage": "https://github.com/ankushkalra/first-npm#readme"
+  "homepage": "https://github.com/ankushkalra/first-npm#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
 }
